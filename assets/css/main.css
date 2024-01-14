@@ -721,6 +721,8 @@ nav.main-menu li a {
 }
 
 .sticky-wrapper.is-sticky .top-header-area {
+  background-color: #ffffff;
+=======
   background-color: white;
   padding: 15px 0;
 }
@@ -2623,7 +2625,7 @@ tr.total-data td strong {
 }
 
 .card.single-accordion .card-header {
-  background-color: #fff;
+  background-color: #845EC2;
   border: none;
   padding: 0;
 }
@@ -2641,7 +2643,7 @@ tr.total-data td strong {
   padding: 20px;
   text-decoration: none;
   border: none;
-  background-color: #EFEFEF;
+  background-color: #845EC2;
   position: relative;
   padding-left: 50px;
   font-weight: 600;
