@@ -567,7 +567,7 @@ nav.main-menu ul > li {
 
 nav.main-menu ul ul.sub-menu {
   position: absolute;
-  background-color: #845EC2;
+  background-color: white;
   width: 220px;
   padding: 15px 15px;
   margin: 0;
