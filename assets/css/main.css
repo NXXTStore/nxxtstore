@@ -2754,3 +2754,9 @@ table.order-details tbody td {
   vertical-align: middle;
   width: 100%;
 }
+
+.white-text{
+  color:white;
+  font-size: 30px;
+  font-weight: italic;
+}
