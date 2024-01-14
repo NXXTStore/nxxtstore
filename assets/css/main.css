@@ -1012,8 +1012,8 @@ a.boxed-btn {
 }
 
 a.boxed-btn:hover {
-  background-color: white;
-  color: black;
+  background-color: #845EC2;
+  color: white;
 }
 
 a.bordered-btn {
