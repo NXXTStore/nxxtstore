@@ -709,7 +709,7 @@ nav.main-menu li a {
 }
 
 .top-header-area .header-icons a:hover {
-  color: #F28123;
+  color: #000000;
 }
 
 .sticky-wrapper {
@@ -1034,7 +1034,7 @@ ul.sub-menu a {
 }
 
 ul.sub-menu li:hover a {
-  color: #F28123;
+  color: #000000;
 }
 
 .single-tof-box {
@@ -1264,7 +1264,7 @@ ul.sub-menu li a {
 }
 
 ul.sub-menu li:hover a {
-  color: #F28123 !important;
+  color: #000000 !important;
 }
 
 .sidebar-section ul li a {
@@ -1351,7 +1351,7 @@ a.mobile-show.search-bar-icon {
 }
 
 a.mobile-show.search-bar-icon:hover {
-  color: #F28123;
+  color: #000000;
 }
 
 /* -----------------------------------------------------------------------------
