@@ -2784,8 +2784,8 @@ table.order-details tbody td {
   color: #845EC2;
 }
 
-.odkaz {display: inline-block; width: 160px; margin-right: 5px; margin-left: 5px;}
-	.obrazek {width: 160px;}
+.odkaz {display: inline-block; width: 150px; margin-right: 5px;}
+	.obrazek {width: 150px;}
 
 .multiple-prudcts-img{
   width: auto;
