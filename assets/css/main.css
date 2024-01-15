@@ -731,6 +731,7 @@ nav.main-menu li a {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  color: #845EC2;
 }
 
 ul.navbar-nav {
