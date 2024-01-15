@@ -166,3 +166,13 @@
 
 
 }(jQuery));
+
+$(document).ready(function() {
+    $(window).on('scroll', function() {
+      if (Math.round($(window).scrollTop()) > 100) {
+        $('.navbar').addClass('main-menu2');
+      } else {
+        $('.navbar').removeClass('main-menu2');
+      }
+    });
+  });
