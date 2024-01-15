@@ -719,7 +719,7 @@ nav.main-menu li a {
   top: 0;
   width: 100%;
   z-index: 999 !important;
-  color: #845EC2; /*ZMENA 11:42*/
+  color: #000000; /*ZMENA 11:42*/
 }
 
 .sticky-wrapper.is-sticky .top-header-area { /*TADY*/ /*TADY TO JE */
@@ -729,14 +729,14 @@ nav.main-menu li a {
 }
 
 #sticker{
-  color: #845EC2;
+  color: #000000;
 }
 
 .top-header-area {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  color: #845EC2; /*ZMENA 11:41*/
+  color: #000000; /*ZMENA 11:41*/
 }
 
 ul.navbar-nav {
