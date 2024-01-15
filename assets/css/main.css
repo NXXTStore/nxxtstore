@@ -555,7 +555,7 @@ nav.main-menu ul li {
 }
 
 nav.main-menu ul li a {
-  color:#845EC2; /*TADY JSEM TED 5:57*/ 
+  color:white; /*TADY JSEM TED 5:57*/ 
   font-weight: 700;
   display: block;
   padding: 15px;
@@ -665,7 +665,7 @@ nav.mean-nav > ul > li:first-child > a {
 }
 
 .header-icons a {
-  color: #845EC2;
+  color: black;
   display: inline-block;
   padding: 10px;
 }
@@ -722,7 +722,7 @@ nav.main-menu li a {
 }
 
 .sticky-wrapper.is-sticky .top-header-area { /*TADY*/
-  background-color: #845EC2;
+  background-color: white; /*TADY 7:32*/
   color: #845EC2;
   padding: 15px 0;
 }
