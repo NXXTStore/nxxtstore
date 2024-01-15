@@ -2786,3 +2786,8 @@ table.order-details tbody td {
 
 .odkaz {display: inline-block; width: 150px; margin-right: 10px;}
 	.obrazek {width: 150px;}
+
+.multiple-prudcts-img{
+  width: auto;
+  height: auto;
+}
