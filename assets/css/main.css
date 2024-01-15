@@ -675,7 +675,7 @@ nav.mean-nav > ul > li:first-child > a {
 }
 
 .top-header-area.sepherate-header ul li > a, .top-header-area.sepherate-header .header-icons a {
-  color: #845EC2; /*ZMENA 7:15*/
+  color: red; /*ZMENA 7:15*/
 }
 
 nav.main-menu ul ul.sub-menu li {
