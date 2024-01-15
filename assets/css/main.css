@@ -721,9 +721,9 @@ nav.main-menu li a {
   z-index: 999 !important;
 }
 
-.sticky-wrapper.is-sticky .top-header-area { /*TADY*/
-  background-color: red; /*TADY 7:32*/
+.sticky-wrapper.is-sticky .top-header-area { /*TADY*/ /*TADY TO JE */
   color: #845EC2;
+  background-color: white; /*TADY 7:32*/
   padding: 15px 0;
 }
 
