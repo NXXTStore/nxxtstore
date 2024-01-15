@@ -408,6 +408,7 @@ p:last-child {
 .purple-text2{
   color: #845EC2;
   font-weight: bold;
+  text-decoration: double;
 }
 
 .blue-bg {
