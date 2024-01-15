@@ -898,6 +898,17 @@ h2.widget-title:after {
   line-height: 1.8;
 }
 
+.footer-box .list-icon {
+  display: block;
+  font-size: 24px;
+  margin-right: 15px;
+  color: #845EC2;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 60px;
+}
+
 .footer-box ul {
   margin: 0;
   padding: 0;
