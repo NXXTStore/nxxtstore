@@ -690,11 +690,11 @@ nav.main-menu ul ul.sub-menu li a {
 }
 
 nav.main-menu ul li.current-list-item > a {
-  color: black;
+  color: #845EC2;
 }
 
 nav.main-menu li:hover > a {
-  color: black;
+  color: #845EC2;
 }
 
 nav.main-menu li a {
@@ -2396,14 +2396,14 @@ ul.social-link-team li a {
   font-size: 18px;
   margin: 15px;
   border: 2px solid #051922;
-  color: #323232;
+  color: white;
   cursor: pointer;
   padding: 8px 20px;
   border-radius: 25px;
 }
 
 .product-filters ul li.active {
-  border: 2px solid #845EC2;
+  border: 2px solid black;
   background-color: #845EC2;
   color: #fff;
 }
