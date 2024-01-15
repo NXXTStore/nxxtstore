@@ -2783,3 +2783,6 @@ table.order-details tbody td {
 .footer-image{
   color: #845EC2;
 }
+
+.odkaz {display: inline-block; width: 150px; margin-right: 10px;}
+	.obrazek {width: 150px;}
