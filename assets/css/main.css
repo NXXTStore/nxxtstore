@@ -626,7 +626,7 @@ ul.sub-menu li:last-child {
 }
 
 .mean-bar a.meanmenu-reveal {
-  background-color: #F28123;
+  background-color: #ffffff;
 }
 
 .main-menu-wrap {
@@ -723,8 +723,8 @@ nav.main-menu li a {
 }
 
 .sticky-wrapper.is-sticky .top-header-area { /*TADY*/ /*TADY TO JE */
-  color: #845EC2;
-  background-color: #845EC2; /*TADY 7:32*/ /*pozadi*/
+  color: #000000;
+  background-color: #000000; /*TADY 7:32*/ /*pozadi*/
   padding: 15px 0;
 }
 
