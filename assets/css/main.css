@@ -568,7 +568,7 @@ nav.main-menu ul > li {
 nav.main-menu ul ul.sub-menu {
   position: absolute;
   background-color: white;
-  color: #845EC2; /*TED JSEM TADY*/
+  /*color: #845EC2; /*TED JSEM TADY*/
   width: 220px;
   padding: 15px 15px;
   margin: 0;
