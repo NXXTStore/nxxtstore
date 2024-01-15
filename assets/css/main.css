@@ -1694,7 +1694,7 @@ p.excerpt {
 }
 
 .pagination-wrap ul li a {
-  color: white;
+  color: black;
   font-size: 15px;
   background-color: #f3f3f3;
   display: inline-block;
@@ -2405,7 +2405,7 @@ ul.social-link-team li a {
 .product-filters ul li.active {
   border: 2px solid black;
   background-color: #845EC2;
-  color: #fff;
+  color: black;
 }
 
 .single-product-item {
