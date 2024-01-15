@@ -405,6 +405,11 @@ p:last-child {
   color: #845EC2;
 }
 
+.purple-text-2{
+  color: #845EC2;
+  font-weight: bold;
+}
+
 .blue-bg {
   background-color: #162133;
 }
