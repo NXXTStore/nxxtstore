@@ -531,7 +531,7 @@ ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-lin
 }
 
 .top-header-area.white ul.navbar-nav li.nav-item a.nav-link, .top-header-area.white ul.navbar-nav li.nav-item.active a.nav-link {
-  color: white; /*ZMENA 7:19*/
+  color: #845EC2; /*ZMENA 7:19*/
 }
 
 ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-link {
@@ -675,7 +675,7 @@ nav.mean-nav > ul > li:first-child > a {
 }
 
 .top-header-area.sepherate-header ul li > a, .top-header-area.sepherate-header .header-icons a {
-  color: red; /*ZMENA 7:15*/
+  color: white; /*ZMENA 7:15*/
 }
 
 nav.main-menu ul ul.sub-menu li {
