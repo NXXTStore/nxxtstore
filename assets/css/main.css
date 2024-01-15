@@ -1694,7 +1694,7 @@ p.excerpt {
 }
 
 .pagination-wrap ul li a {
-  color: #6f6f6f;
+  color: white;
   font-size: 15px;
   background-color: #f3f3f3;
   display: inline-block;
@@ -2395,8 +2395,8 @@ ul.social-link-team li a {
   font-weight: 700;
   font-size: 18px;
   margin: 15px;
-  border: 2px solid #051922;
-  color: white;
+  border: 2px solid black;
+  color: black;
   cursor: pointer;
   padding: 8px 20px;
   border-radius: 25px;
