@@ -531,11 +531,11 @@ ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-lin
 }
 
 .top-header-area.white ul.navbar-nav li.nav-item a.nav-link, .top-header-area.white ul.navbar-nav li.nav-item.active a.nav-link {
-  color: #845EC2; /*ZMENA 7:19*/
+  color: #000000; /*ZMENA 7:19*/
 }
 
 ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-link {
-  color: #845EC2;
+  color: #000000;
   font-weight: 700;
   margin-right: 14px;
 }
