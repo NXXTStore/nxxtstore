@@ -722,7 +722,7 @@ nav.main-menu li a {
 }
 
 .sticky-wrapper.is-sticky .top-header-area { /*TADY*/
-  background-color: white; /*TADY 7:32*/
+  background-color: red; /*TADY 7:32*/
   color: #845EC2;
   padding: 15px 0;
 }
