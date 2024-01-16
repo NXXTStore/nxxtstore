@@ -451,7 +451,6 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 .section-title h3 {
   font-size: 40px;
   position: relative;
-  padding-bottom: 15%;
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -718,7 +717,7 @@ nav.main-menu li a {
 }
 
 .top-header-area .header-icons a:hover {
-  color: #000000;
+  color: #845EC2;
 }
 
 .sticky-wrapper {
