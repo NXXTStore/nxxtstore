@@ -2807,12 +2807,16 @@ table.order-details tbody td {
   font-size: 30px;
 }
 
-.terms2{
+.terms2{  
   font-size: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .terms3{
   font-size: 12px;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 figure.zoom {
