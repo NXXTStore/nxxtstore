@@ -156,8 +156,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <div class="single-product-img">
-                        <img src="assets/img/black_hoodie_front_view.png" alt="">
+                    <div class="single-product-img" id="cont">
+                        <img src="assets/img/black_hoodie_front_view.png" alt="zoom">
                     </div>
                     <div class="multiple-prudcts-img">
                         <a href="assets/img/black_hoodie_front_view.png" class="odkaz" data-lightbox="black-hoodie"><img
@@ -323,7 +323,26 @@
         </div>
     </div>
     <!-- end copyright -->
+    <script>
+        const cont = document.getElementById("cont");
+        const img = document.querySelector("img");
 
+        cont.addEventListener("mousemove", (e) => {
+            const x = e.clientX - e.target.offsetLeft;
+            const y = e.clientY - e.target.offsetTop;
+
+            console.log(x,y)
+
+            img.style.transformOrigin = `$(x)px $(y)px`;
+            img.style.transform = scale(2);
+        })
+
+        container.addEventListener("mouseleave", () => {
+            img.style.transformOrigin = "center";
+            img.style.transformOrigin = "scale(1)";
+        })
+        /*dopsat https://www.youtube.com/watch?v=flOx9Jis938*/
+    </script>
 
 
 </body>
