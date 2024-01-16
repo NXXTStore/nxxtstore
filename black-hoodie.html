@@ -157,7 +157,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="single-product-img" id="cont">
-                        <img src="assets/img/black_hoodie_front_view.png" alt="zoom">
+                        <img src="assets/img/black_hoodie_front_view.png" alt="zoom" name="black-hoodie">
                     </div>
                     <div class="multiple-prudcts-img">
                         <a href="assets/img/black_hoodie_front_view.png" class="odkaz" data-lightbox="black-hoodie"><img
@@ -325,7 +325,7 @@
     <!-- end copyright -->
     <script>
         const cont = document.getElementById("cont");
-        const img = document.querySelector("img");
+        const img = document.querySelector("black-hoodie");
 
         cont.addEventListener("mousemove", (e) => {
             const x = e.clientX - e.target.offsetLeft;
@@ -337,7 +337,7 @@
             img.style.transform = "scale(2)";
         })
 
-        container.addEventListener("mouseleave", () => {
+        cont.addEventListener("mouseleave", () => {
             img.style.transformOrigin = "center";
             img.style.transformOrigin = "scale(1)";
         })
