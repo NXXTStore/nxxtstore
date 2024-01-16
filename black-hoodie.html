@@ -157,6 +157,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="single-product-img" id="cont">
+                        <figure.zoom style='background-image: url(//res.cloudinary.com/active-bridge/image/upload/slide1.jpg)' onmousemove='zoom(event)'></figure.zoom>
                         <img src="assets/img/black_hoodie_front_view.png" alt="zoom" name="black-hoodie">
                     </div>
                     <div class="multiple-prudcts-img">
@@ -324,14 +325,14 @@
     </div>
     <!-- end copyright -->
     <script>
-        const cont = document.getElementById("cont");
+        /*const cont = document.getElementById("cont");
         const img = document.querySelector("img");
 
         cont.addEventListener("mousemove", (e) => {
             const x = e.clientX - e.target.offsetLeft;
             const y = e.clientY - e.target.offsetTop;
 
-            console.log(x,y)
+            console.log(x, y)
 
             img.style.transformOrigin = `$(x)px $(y)px`;
             img.style.transform = "scale(2)";
