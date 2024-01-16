@@ -2831,3 +2831,7 @@ figure.zoom {
   overflow: hidden;
   cursor: zoom-in;
 }
+
+.image-zoom{
+  background-color: white;
+}
