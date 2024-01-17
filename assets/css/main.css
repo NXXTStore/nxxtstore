@@ -26,6 +26,9 @@ body {
   line-height: 1.8;
   color: #051922;
   overflow-x: hidden;
+  height: 100%;
+  width: 100%; 
+  /*UPRAVA TADY TĚCH POSLEDNÍCH DVOU PRO TEN CIRCLE*/
 }
 
 body img {
