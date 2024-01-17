@@ -2477,6 +2477,7 @@ a.cart-btn i {
   border-radius: 5px;
   -webkit-box-shadow: 0 0 20px #ddd;
   box-shadow: 0 0 20px #ddd;
+  background-color: white;
 }
 
 .single-product-content h3 {
@@ -2836,6 +2837,6 @@ figure.zoom {
   cursor: zoom-in;
 }
 
-.image-zoom{
+/*.image-zoom{
   background-color: white;
-}
+}*/
