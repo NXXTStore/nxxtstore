@@ -165,7 +165,7 @@ p:last-child {
 ----------------------------------------------------------------------------- */
 .loader {
   bottom: 0;
-  height: 100%;
+  /*height: 100%;*/
   left: 0;
   position: fixed;
   right: 0;
@@ -179,8 +179,8 @@ p:last-child {
 
 .loader-inner {
   position: absolute;
-  left: 40%;
-  top: 40%;
+  left: 50%;
+  top: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
