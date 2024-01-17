@@ -172,7 +172,7 @@ p:last-child {
   top: 0;
   width: auto; /*UPRAVA Z 100% na auto*/
   height:auto; /*TO STEJNE*/
-  z-index: 1111;
+  z-index: 999;
   background: #fff;
   overflow-x: hidden;
 }
