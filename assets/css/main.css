@@ -165,13 +165,12 @@ p:last-child {
 ----------------------------------------------------------------------------- */
 .loader {
   bottom: 0;
-  /*height: 100%;*/
+  height: 100%;
   left: 0;
   position: fixed;
   right: 0;
   top: 0;
-  width: 100%; /*UPRAVA Z 100% na auto*/
-  height:100%; /*TO STEJNE*/
+  width: 100%;
   z-index: 1111;
   background: #fff;
   overflow-x: hidden;
