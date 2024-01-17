@@ -2800,8 +2800,8 @@ table.order-details tbody td {
 	.obrazek {width: 120px;}
 
 .multiple-prudcts-img{
-  width: auto;
-  height: auto;
+  width: 100%; /*UPRAVA taky tady tech dvou kvuli loaderu*/
+  height: 100%;
 }
 
 .text-block {
