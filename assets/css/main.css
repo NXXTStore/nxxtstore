@@ -170,9 +170,9 @@ p:last-child {
   position: fixed;
   right: 0;
   top: 0;
-  width: auto; /*UPRAVA Z 100% na auto*/
-  height:auto; /*TO STEJNE*/
-  z-index: 999;
+  width: 100%; /*UPRAVA Z 100% na auto*/
+  height:100%; /*TO STEJNE*/
+  z-index: 1111;
   background: #fff;
   overflow-x: hidden;
 }
