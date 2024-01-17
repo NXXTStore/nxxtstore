@@ -2851,7 +2851,7 @@ figure.zoom {
   border-radius: 50%;
   width: 48px;
   height: 48px;
-  color: #fff;
+  color: black;
 }
   .loader:before,
   .loader:after {
@@ -2867,7 +2867,7 @@ figure.zoom {
     animation: 1s spin linear infinite;
   }
   .loader:after {
-    color: #FF3D00;
+    color: #845EC2;
     transform: rotateY(70deg);
     animation-delay: .4s;
   }
