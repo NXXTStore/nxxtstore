@@ -1082,7 +1082,6 @@ a.video-play-btn {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  background-color: black;
 }
 
 a.video-play-btn:hover {
@@ -2844,7 +2843,7 @@ figure.zoom {
 
 /* -----------------------------------------------------------------------------
 
-# Newsletter Styles <!-- můžeme časem dodělat, není potřeba hned>
+# Newsletter Styles
 
 ----------------------------------------------------------------------------- */
 
