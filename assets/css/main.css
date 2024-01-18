@@ -2854,3 +2854,7 @@ figure.zoom {
 .a-none{
   color: black;
 }
+
+.a-none:hover{
+  color: black;
+}
