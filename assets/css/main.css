@@ -532,6 +532,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 ----------------------------------------------------------------------------- */
 ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-link {
   color: #051922;
+  background-color: #845ec2;
 }
 
 .top-header-area {
@@ -2856,37 +2857,5 @@ figure.zoom {
 }
 
 .a-none:hover{
-  color: black;
-}
-
-.a-hoodies{
-  color: black;
-}
-
-.a-hoodies:hover{
-  color: black;
-}
-
-.a-sweatshirts{
-  color: black;
-}
-
-.a-sweatshirts:hover{
-  color: black;
-}
-
-.a-bottoms{
-  color: black;
-}
-
-.a-bottoms:hover{
-  color: black;
-}
-
-.a-accessories{
-  color: black;
-}
-
-.a-accessories:hover{
   color: black;
 }
