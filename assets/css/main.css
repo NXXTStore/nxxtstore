@@ -531,8 +531,8 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 
 ----------------------------------------------------------------------------- */
 ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-link {
-  color: #051922;
-  background-color: #845ec2;
+  color: #845EC2;
+  font-weight: bold;
 }
 
 .top-header-area {
