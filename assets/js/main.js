@@ -12,6 +12,26 @@ document.addEventListener("DOMContentLoaded", addItemToCart);
 function addItemToCart() {
     const addSelectedShoes = document.getElementById("add-items");
     const incrementButtons = document.querySelectorAll("#increase");
+    incrementButtons.forEach(increaseItems);
+
+    function increaseItems(button){
+        button.addEventListener("click", function (e){
+        e.target.previousElementSibling.textContent++;
+         })
+        }
+
+        const decrementButtons = document.querySelectorAll("#decrease");
+        decrementButtons.forEach(decreaseItems);
+
+        function decreaseItems(button) {
+            button.addEventListener("click", function (e) {
+            let currentQuantity = e.target.nextElementSibling.textContent;
+            if(currentQuantity > 1){
+            e.target.nextElementSibling.textContent--;
+                }
+              });
+            }
+
     shoes.forEach(shoe => {
         addSelectedShoes.appendChild(shoeItem(shoe));
     })
