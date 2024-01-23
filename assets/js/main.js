@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", addItemToCart);
 
 function addItemToCart() {
     const addSelectedShoes = document.getElementById("add-items");
+    const incrementButtons = document.querySelectorAll("#increase");
     shoes.forEach(shoe => {
         addSelectedShoes.appendChild(shoeItem(shoe));
     })

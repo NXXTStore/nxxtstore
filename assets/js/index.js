@@ -1,4 +1,4 @@
-import newItem from "./item.js";
+import newShoeItem from "./item.js";
 
 const hoodies = [
     {
